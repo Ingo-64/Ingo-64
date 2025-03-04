@@ -1,5 +1,5 @@
-## Servus 👋
-# tut mir leid das du über mein Profil gestolpert bist!
+# Servus 👋
+## tut mir leid das du über mein Profil gestolpert bist!
 
 Beruflich hatte ich viel mit Automatisieren von Arbeitsprozessen zu tun. Mit dem Schwerpunkt, Fertigung in der Metallverarbeitung/Maschinenbau.
 Aktuell habe ich aber mehr mit Themen rund um die Logistik zu tun.
